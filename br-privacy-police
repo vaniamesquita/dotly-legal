@@ -1,0 +1,64 @@
+POLÍTICA DE PRIVACIDADE
+
+Última atualização: 23-mar-2026
+
+O Dotly ("nós" ou "nosso") está comprometido em proteger sua privacidade. Esta Política de Privacidade explica como lidamos com informações quando você usa nosso aplicativo móvel Dotly (o "App").
+
+INFORMAÇÕES QUE COLETAMOS
+
+O Dotly NÃO coleta, armazena ou transmite nenhum dado pessoal para servidores externos. Todos os seus dados (eventos, hábitos, registros de hábitos, preferências e configurações) são armazenados localmente no seu dispositivo e na sua conta pessoal do iCloud (se o iCloud estiver ativado no seu dispositivo).
+
+Especificamente:
+- NÃO coletamos informações pessoais (nome, email, telefone)
+- NÃO coletamos dados de uso ou rastreamento
+- NÃO usamos cookies ou tecnologias similares de rastreamento
+- NÃO compartilhamos dados com terceiros
+- NÃO usamos SDKs de publicidade ou redes de anúncios
+
+ARMAZENAMENTO LOCAL DE DADOS
+
+Todos os dados do app são armazenados exclusivamente no seu dispositivo usando armazenamento local (UserDefaults e App Groups). Esses dados incluem:
+- Eventos que você cria (nomes, datas, cores)
+- Hábitos que você cria (nomes, metas, ícones, cores)
+- Registros de conclusão de hábitos
+- Preferências e configurações do app (tema, cor de destaque, preferências de exibição)
+
+Esses dados nunca saem do seu dispositivo, a menos que você escolha explicitamente exportá-los usando a função "Exportar Backup", que cria um arquivo local sob seu controle.
+
+ACESSO AO CALENDÁRIO
+
+Se você optar por usar a função "Importar do Calendário", o App solicitará permissão para ler seu Calendário do iOS. Este acesso:
+- É solicitado apenas quando você inicia a importação
+- É usado exclusivamente para exibir seus eventos do calendário para você selecionar quais importar
+- Os dados do calendário são lidos localmente e nunca transmitidos a servidores externos
+- Você pode revogar esta permissão a qualquer momento nos Ajustes do iPhone
+
+NOTIFICAÇÕES
+
+Se você ativar lembretes para eventos ou hábitos, o App usa notificações locais agendadas no seu dispositivo. Nenhum dado de notificação é enviado a servidores externos.
+
+COMPRAS NO APP
+
+O Dotly oferece uma compra única vitalícia ("Dotly Pro") processada inteiramente pela App Store da Apple. Não processamos nenhuma informação de pagamento diretamente. Todos os dados de compra são gerenciados pela Apple de acordo com sua política de privacidade.
+
+PRIVACIDADE DE CRIANÇAS
+
+O Dotly não coleta intencionalmente nenhuma informação de crianças menores de 13 anos. O App não exige criação de conta ou informações pessoais para funcionar.
+
+EXCLUSÃO DE DADOS
+
+Como todos os dados são armazenados localmente no seu dispositivo, você pode excluir todos os dados do app a qualquer momento:
+- Excluindo eventos ou hábitos individualmente dentro do app
+- Usando a função de Arquivo para ocultar itens
+- Desinstalando o app (isso remove permanentemente todos os dados locais)
+
+ALTERAÇÕES NESTA POLÍTICA
+
+Podemos atualizar esta Política de Privacidade periodicamente. Quaisquer alterações serão refletidas na data de "Última atualização" no topo desta política. Encorajamos você a revisar esta política periodicamente.
+
+CONTATO
+
+Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco:
+Email: app.dotly@gmail.com
+
+Esta política de privacidade é válida a partir de 23-mar-2026.
